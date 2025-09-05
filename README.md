@@ -4,4 +4,4 @@
 ![Capture](image.png)
 
 ## Video Demo
-[Video Demo](demo.mp4)
+[![Watch the video](https://img.youtube.com/vi/wCqApEIW1zI/0.jpg)](https://youtu.be/wCqApEIW1zI)
